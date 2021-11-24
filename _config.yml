@@ -31,7 +31,8 @@ twitter_username: 2ashishs
 github_username:  2ashishs
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
