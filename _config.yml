@@ -32,7 +32,7 @@ github_username:  2ashishs
 
 # Build settings
 #theme: minima
-remote_theme: pmarsceill/just-the-docs
+remote_theme: 2ashishs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
